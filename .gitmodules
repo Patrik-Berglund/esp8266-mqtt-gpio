@@ -1,0 +1,9 @@
+[submodule "tools/esptool"]
+	path = tools/esptool
+	url = https://github.com/themadinventor/esptool
+[submodule "mqtt"]
+	path = mqtt
+	url = https://github.com/tuanpmt/esp_mqtt/
+[submodule "jsmn"]
+	path = jsmn
+	url = https://github.com/zserge/jsmn.git
